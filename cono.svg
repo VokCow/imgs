@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 151.12 196.75" version="1.0">
+  <defs id="defs4">
+    <linearGradient id="linearGradient2213">
+      <stop id="stop2215" stop-color="#f5dece" offset="0"/>
+      <stop id="stop2217" stop-color="#ecc1a2" offset=".5"/>
+      <stop id="stop2219" stop-color="#f5dece" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2318">
+      <stop id="stop2320" stop-color="#ffc795" stop-opacity="0" offset="0"/>
+      <stop id="stop2322" stop-color="#fff" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2273">
+      <stop id="stop2275" stop-color="#ff902e" offset="0"/>
+      <stop id="stop2309" stop-color="#97460b" offset=".5"/>
+      <stop id="stop2277" stop-color="#e56a10" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2255" y2="143.73" gradientUnits="userSpaceOnUse" y1="143.73" x2="213.59" x1="149.05">
+      <stop id="stop2251" stop-color="#8a510e" stop-opacity=".8" offset="0"/>
+      <stop id="stop2253" stop-color="#211000" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2279" x1="190.87" xlink:href="#linearGradient2273" gradientUnits="userSpaceOnUse" y1="207.65" gradientTransform="matrix(1 0 0 .92982 -162.38 -102.47)" x2="289.51" y2="207.65"/>
+    <radialGradient id="radialGradient2305" gradientUnits="userSpaceOnUse" cy="283.6" cx="235.9" gradientTransform="matrix(1 0 0 .39310 0 172.12)" r="70.82">
+      <stop id="stop2301" offset="0"/>
+      <stop id="stop2307" stop-opacity=".45454" offset=".87387"/>
+      <stop id="stop2303" stop-opacity="0" offset="1"/>
+    </radialGradient>
+    <linearGradient id="linearGradient2337" x1="319.69" xlink:href="#linearGradient2318" gradientUnits="userSpaceOnUse" y1="206.65" gradientTransform="matrix(1 0 0 .91933 -249.36 -97.221)" x2="319.69" y2="123.06"/>
+    <linearGradient id="linearGradient2345" x1="414.1" xlink:href="#linearGradient2273" gradientUnits="userSpaceOnUse" y1="114.54" gradientTransform="matrix(.98525 0 0 .98525 -211.25 -33.582)" x2="503.09" y2="190.9"/>
+    <linearGradient id="linearGradient2354" x1="319.69" xlink:href="#linearGradient2318" gradientUnits="userSpaceOnUse" y1="220.44" gradientTransform="matrix(1.1175 0 0 .91933 -287.74 -97.91)" x2="319.69" y2="123.06"/>
+    <linearGradient id="linearGradient2358" x1="319.69" xlink:href="#linearGradient2318" gradientUnits="userSpaceOnUse" y1="238.66" gradientTransform="matrix(1 0 0 .91933 -248.85 -96.644)" x2="319.69" y2="123.06"/>
+    <linearGradient id="linearGradient1338" x1="190.87" xlink:href="#linearGradient2213" gradientUnits="userSpaceOnUse" y1="207.65" gradientTransform="matrix(.68967 0 0 .29486 -87.7 17.993)" x2="289.51" y2="207.65"/>
+    <linearGradient id="linearGradient2810" x1="190.87" xlink:href="#linearGradient2213" gradientUnits="userSpaceOnUse" y1="207.65" gradientTransform="matrix(.40649 0 0 .17379 -19.733 -4.6576)" x2="289.51" y2="207.65"/>
+  </defs>
+  <g id="layer1" transform="translate(-2.4743 -2.8531)">
+    <path id="rect2200" fill="#97460b" d="m88.075 134.37l61.345 21.2c5.56 2.47 5.56 12.48 0 14.95l-61.345 27.23c-5.563 2.47-14.519 2.47-20.082 0l-61.347-27.23c-5.5623-2.47-5.5623-12.37 0.0003-14.84l61.347-21.31c5.563-2.47 14.519-2.47 20.082 0z"/>
+    <rect id="rect2198" transform="matrix(.91398 .40575 -.91398 .40575 0 0)" ry="10.986" height="89.092" width="89.092" y="109.96" x="195.34" fill="url(#linearGradient2345)"/>
+    <path id="path2289" opacity=".8" transform="matrix(.80690 0 0 .77240 -111.7 -57.269)" fill="url(#radialGradient2305)" d="m306.72 283.6a70.82 27.839 0 1 1 -141.64 0 70.82 27.839 0 1 1 141.64 0z"/>
+    <path id="rect2224" fill="url(#linearGradient2279)" d="m66.783 6.7213h22.247l38.08 155.59c-14.34 22.6-91.99 20.18-97.995 0l37.668-155.59z"/>
+    <path id="path1336" opacity=".6" fill="url(#linearGradient1338)" d="m52.359 68.407c17.868 10.146 34.717 7.049 51.321 0l8.27 33.553c-12.068 16.39-64.945 12.66-67.581 0l7.99-33.553z"/>
+    <path id="path1317" transform="matrix(.27085 0 0 .37661 31.183 -48.878)" fill="#d36400" d="m213.57 148.08a41.071 10.714 0 1 1 -82.14 0 41.071 10.714 0 1 1 82.14 0z"/>
+    <path id="path2247" opacity=".66111" transform="matrix(.18433 0 0 .25253 46.127 -30.453)" fill="url(#linearGradient2255)" d="m213.57 148.08a41.071 10.714 0 1 1 -82.14 0 41.071 10.714 0 1 1 82.14 0z"/>
+    <path id="path2352" opacity=".2" fill="url(#linearGradient2354)" d="m68.208 13.079c0.919-0.559 2.217-0.242 3.289 0.909l-9.925 130.83c-9.114 5.29-17.931 2.84-26.732 0l33.368-131.74z"/>
+    <path id="rect2326" opacity=".2" fill="url(#linearGradient2337)" d="m68.727 13.656c0.789-0.377 1.415 0.075 1.964 0.66l-11.807 131.19c-6.345 6.04-12.922 4.43-19.584 0l29.427-131.85z"/>
+    <path id="path2356" opacity=".3" fill="url(#linearGradient2358)" d="m69.202 14.337c0.215-0.223 0.43 0.027 0.646 0.285l-12.889 131.47c-5.566 3.16-11.265 3.53-17.15 0l29.393-131.75z"/>
+    <path id="path2808" opacity=".55" fill="url(#linearGradient2810)" d="m62.818 25.057c10.896 5.752 20.734 4.046 30.249 0l4.875 19.776c-7.113 9.764-38.279 7.663-39.833 0l4.709-19.776z"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Construction Cone</dc:title>
+        <dc:date>2007-02-26T16:21:37</dc:date>
+        <dc:description>This is a traditional orange construction cone.</dc:description>
+        <dc:source>http://openclipart.org/detail/3326/construction-cone-by-midkiffaries</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>midkiffaries</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>cone</rdf:li>
+            <rdf:li>construction</rdf:li>
+            <rdf:li>how i did it</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>inkscape</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>png</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>svg</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
